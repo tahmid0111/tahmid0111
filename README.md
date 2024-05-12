@@ -9,6 +9,7 @@
 
 
 <div style="text-align: center;">
+  
   ###  Javascript, TypeScript
 
   ###  React js, Next js
@@ -16,6 +17,7 @@
   ###  Node js, Express js
 
   ###  MongoDB
+  
 </div>
 
 

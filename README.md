@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi, I'm Tahmid Emam! 👋</h1>
 
-<h2 align="center">🤖 Software Engineer Student | 🎯 Highly disciplined </h1>
+<h2 align="center">🤖 Software Engineer Student | 😊Self-motivated </h1>
+
+<h2 align="center">💪 Highly disciplined | 😎 Full stack developer </h1>
+
+<h2 align="center">🎯 I'm actively progressing towards my goal </h1>
 
 <div align="center">
   
